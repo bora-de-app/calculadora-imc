@@ -15,13 +15,9 @@
   <a href="#como-usar">Como usar</a> •
 </p>
 
-<p align="center">
+![screenshot](https://raw.githubusercontent.com/bora-de-app/calculadora-imc/main/github/home.png)
 
-  ![screenshot](https://raw.githubusercontent.com/bora-de-app/calculadora-imc/main/github/home.png)
-
-  ![screenshot](https://raw.githubusercontent.com/bora-de-app/calculadora-imc/main/github/result.png)
-
-</p>
+![screenshot](https://raw.githubusercontent.com/bora-de-app/calculadora-imc/main/github/result.png)
 
 ## Tech
 
