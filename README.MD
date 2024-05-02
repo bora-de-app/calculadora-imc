@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/bora-de-app/calculadora-imc/blob/main/github/logo.png?raw=true" alt="BoraDeAPP" width="60"></a>
+  <a href="https://boradeapp.com"><img src="https://raw.githubusercontent.com/bora-de-app/calculadora-imc/main/github/logo.png" alt="BoraDeAPP" width="60"></a>
   <br>
   Calculadora de IMC
   <br>
@@ -15,9 +15,13 @@
   <a href="#como-usar">Como usar</a> •
 </p>
 
-![screenshot](https://github.com/bora-de-app/calculadora-imc/blob/main/github/home.png?raw=true)
+<p align="center">
 
-![screenshot](https://github.com/bora-de-app/calculadora-imc/blob/main/github/result.png?raw=true)
+  ![screenshot](https://raw.githubusercontent.com/bora-de-app/calculadora-imc/main/github/home.png)
+
+  ![screenshot](https://raw.githubusercontent.com/bora-de-app/calculadora-imc/main/github/result.png)
+
+</p>
 
 ## Tech
 
